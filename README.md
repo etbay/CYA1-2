@@ -91,6 +91,18 @@ Weaknesses:
 - Technologies should be highlighted in some way for easier scanning
 - No metrics mentioned in project bullets
 
+[First Portfolio](https://etbay.carrd.co/)
+This portfolio was made in a short burst where the website and projects were all added in 1-2 days. I think the main draw is that it has a professional description. This portfolio is simply missing my software projects however. I only ended up adding the games I had made and didn't really capture my full experience.
+
+Strengths:
+- Personable
+- Organized
+- Skills displayed readily
+
+Weaknesses:
+- Can be hard to find projects
+- Only games are included
+
 ## March
 During March (Specifically March 12-April 20), I applied to around 31 internships. I also made a new portfolio using Claude since what I had used before (carrd) was a bit too much for what I was trying to do so I thought I'd make it simpler. I felt the new portfolio gave a better overview of who I was and what I had done.
 
@@ -136,3 +148,19 @@ Weaknesses:
 - TA section is still weak
 - BrainBatch section is not very specific or interesting
 
+[Second Portfolio](https://etbay.github.io/)
+I think this portfolio does a better job capturing the attention of the viewer with punchy statistics and accompishments and also provides my resume, a way to contact me, and better descriptions of my projects with all of my relevant projects included.
+
+Strengths:
+- Easy to navigate
+- Efficient
+- Most relevant statistics displayed at the top
+- Project descriptions describe what and how and provide links for further exploration
+
+Weaknesses:
+- Skills section should probably be before projects
+- Descriptions could use a rework to describe impact and the "why"
+
+## Results
+Total applications: 78
+Total time spent: 43.5 hours
