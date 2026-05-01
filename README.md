@@ -68,6 +68,8 @@ Total time spent: 1.75 hours (estimated ~15 minutes for Easy, ~30 minutes for Me
 
 Both online assessments were administered by TikTok via CodeSignal. I unfortunately did not complete one in early February but did complete a later one on February 28 where I scored 399/600. This was better than the ZipRecruiter one before but unfortunately not good enough to get to the next round. I can't recall what the interview question for this one was. 
 
+During this time I also had a zoom interview with a government defense agency which I also did not get. The interview was only behavioral with questions about my projects. After this, I realized that I needed to practice or prepare better for talking about my projects.
+
 ![Resume 2](images/resumes/Resume_Jan26-Mar8.png?raw=true)
 This resume was used while I was trying to focus more on applications and I figured that making a portfolio to go along with it could be good as well. What I didn't realize yet during this period was how important interviews were and how unprepared I was at that time for both behavioral and technical portions.
 
@@ -165,4 +167,5 @@ Weaknesses:
 
 ## Results
 Total applications: 78
+
 Total time spent: 43.5 hours
