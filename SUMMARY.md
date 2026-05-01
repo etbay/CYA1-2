@@ -1,21 +1,25 @@
 # Internship Search Summary — Spring 2026
 
-## Background
+## Activity Description
 
-My name is Evan Bay, and I'm a Junior studying Computer Science with a minor in Mathematics at Washington State University, having transferred from Portland Community College. I have a strong background in game development. I'm the President of the Game Development Club, which hosts multiple semesterly events and a yearly game jam with 100+ attendees. While games are my passion, I've come to realize I'd be fulfilled in any role where I'm designing experiences and solving problems for people.
+The goal of this activity was to get a software development/engineering internship for this summer (Summer 2026). Before the semester began, I had been applying to internships and improving my resume already. During the semester, I submitted 78 total internship applications in 3 major bursts each month besides April due to finals (January, February, March). Between each burst, I iterated on my resume 3 times and made 2 different portfolio sites. I also practiced Leetcode and CodeSignal to prepare for technical interviews, attended the Career Expo in February to network, and did multiple online assessments and interviews. Overall, I spent an estimated 43.5 hours on the search including applications and technical interview prep.
 
-## January
+## Technical or Professional Decisions
 
-I kicked off the semester by applying to roughly 30 internships between January 15–26. Of those, 13 rejected me, 15 ghosted me, I withdrew from one (Roblox, I never got to their game-based assessment), and one moved me to an online assessment. That assessment was from ZipRecruiter via CodeSignal, where I scored 350/600. I struggled with the matrix rotation problem and couldn't finish it in time, which taught me I needed far more technical prep. I also completed 7 LeetCode problems during this stretch. Total estimated time for applications and technical interview prep: about 11.75 hours.
+I would say my most impactful decisions were the ones I made in regard to my professional presentation. I changed my resume 3 times during the semester and made improvements each time with structure and content. I also decided to make a portfolio site using Carrd which became a bit too much work and I ended up only added my game projects. I later reduced the scope of the portfolio and had Claude generate a template I could use to present my projects all on one page. This was much better for presentation and also included subtitles which contained titles I held and accomplishments during my time at WSU.
 
-## February
+Other important decisions I made was adjusting my priorities after each interview or assessment experience. After each interview, I often found I lacked in either technical or behavioral interview skills. I was either unable to complete the online assessments or had trouble describing my projects well to recruiters. To fix this, I practiced talking about my projects and did a lot more leetcode problems (42 in March) to prepare for future interviews and assessments. 
 
-Between January 26 and March 12, I applied to 17 more internships, attended the WSU Career Expo (speaking with SEL, FAST, and others), and built my first portfolio site. Results: 5 rejections, 10 ghosted, and 2 online assessments — both from TikTok via CodeSignal. I scored 399/600 on my second attempt, an improvement, but not enough to advance. I also had a behavioral Zoom interview with a government defense agency that I didn't progress in. That experience showed me how underprepared I was for talking about my own projects. I did 5 LeetCode problems and 14 CodeSignal practice problems this period. Total estimated time for applications and technical interview prep: about 6 hours.
+I also attended the career fair in February and spoke to the companies where I felt my skills matched the most (SEL, FAST, and others).
 
-## March
+## Contributions
 
-Between March 12 and April 20, I applied to 31 more internships, did a significant LeetCode push (42 problems — 8 easy, 32 medium), and built a new portfolio site using Claude. I received a personality assessment from Veeva (rejected), two online assessments from IBM and Amazon (neither advanced), and most notably a full interview pipeline with SEL. That included a phone screening, then a 2-hour in-person panel interview with 5 people. Unfortunately, they moved forward with another candidate. Still, it was my most advanced stage of any process and the most valuable real interview experience I've had. Total estimated time for applications and technical interview prep: about 25.75 hours.
+This was a solo project but I did use tools and resources provided online and by WSU to help me. I used Simplify to help me track jobs and resources like Handshake, LinkedIn, Simplify, and online sources to help find job postings. I also attended some WSU career workshops for help with resumes. Along the way, I identified areas that needed improvement and targeted them in preparation for the next application and interview burst.
 
-## Reflection
+## Quality Assessment
 
-Across the semester I sent 78 total applications and spent an estimated 43.5 hours on the search. For leetcode alone, I spent an estimated 24 hours total (see images/leetcode for evidence). I iterated through three resumes and two portfolios, each improving on weaknesses of the last (see README for full breakdown). Looking back, my biggest areas for growth are: (1) more consistent technical interview prep, (2) better storytelling around my projects in behavioral interviews, and (3) building projects that demonstrate more specialized or industry-relevant skills beyond game development.
+Despite getting multiple online assessments and reaching the last round of interviews for SEL, I was unable to secure a Summer 2026 internship during the semester. My CodeSignal assessment score did increase from 350/600 to 399/600 but I was still unable to fully solve both parts of any online assessment. My takeaway is that interview prep should start early and be frequent. I would have started much earlier and done much more if I knew how difficult the assessments would be. I also would have practiced for behavioral by identifying scenarios I could talk about that show different skills of mine. I also would have prepared to talk about each project on my resume in more depth.
+
+## Career Alignment
+
+I learned a lot from this experience, I only wish I had tried harder last year and learned this when I still had time to get an internship. I think this experience will help with the job search once I graduate but I was seriously unprepared and uneducated about the process and the amount of effort that is required to get an internship.
