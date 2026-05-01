@@ -59,12 +59,12 @@ Total time spent: 4.25 hours (estimated ~15 minutes per application)
 To prepare for any technical interviews I might get during this time, I did 3 leetcode problems.
 
 Here is the breakdown of problems done:
-- 1 Easy
+- 3 Easy
 - 2 Medium
 
 I also completed 14 practice problems with CodeSignal in preparation for interviews.
 
-Total time spent: 1.25 hours (estimated ~15 minutes for Easy, ~30 minutes for Medium, and ~1 hr for hard)
+Total time spent: 1.75 hours (estimated ~15 minutes for Easy, ~30 minutes for Medium, and ~1 hr for hard)
 
 Both online assessments were administered by TikTok via CodeSignal. I unfortunately did not complete one in early February but did complete a later one on February 28 where I scored 399/600. This was better than the ZipRecruiter one before but unfortunately not good enough to get to the next round. I can't recall what the interview question for this one was. 
 
@@ -118,10 +118,10 @@ Total time spent: 7.75 hours (estimated ~15 minutes per application)
 To prepare for any technical interviews I might get during this time, I did 42 leetcode problems.
 
 Here is the breakdown of problems done:
-- 10 Easy
+- 8 Easy
 - 32 Medium
 
-Total time spent: 18.5 hours (estimated ~15 minutes for Easy, ~30 minutes for Medium, and ~1 hr for hard)
+Total time spent: 18 hours (estimated ~15 minutes for Easy, ~30 minutes for Medium, and ~1 hr for hard)
 
 The personality assessment was given by Veeva Systems and was a bit strange and unrelated to the job. Personality assessment is important for candidates and companies but this assessment mixed in word association with a "correct" answer, and unrelated multiple choice options such as "which is more like you? (is organized) (takes initiative)". Ultimately, I was rejected from this position.
 
