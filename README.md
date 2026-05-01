@@ -92,6 +92,7 @@ Weaknesses:
 - No metrics mentioned in project bullets
 
 [First Portfolio](https://etbay.carrd.co/)
+
 This portfolio was made in a short burst where the website and projects were all added in 1-2 days. I think the main draw is that it has a professional description. This portfolio is simply missing my software projects however. I only ended up adding the games I had made and didn't really capture my full experience.
 
 Strengths:
@@ -129,7 +130,7 @@ The first online assessment was administered by IBM. I don't remember much about
 
 Fortunately, I had applied to SEL on March 2nd and they got back to me around MArch 20th for a phone call screening. It was pretty standard behavioral, asking about times I encountered specific situations. I got a call a few weeks later about scheduling an in-person interview which happened April 1st. To my surprise, there was no technical portion but it did feature some technical concepts asked when discussing my resume. I was interviewed by a panel of 5 and mostly asked about my resume, how I dealt with certain situations, and it lasted around 2 hours. Around 2 weeks later, they called to tell me they were moving forward with another candidate.
 
-![Resume 3](images/resumes/Resume_Mar12-Present.png?raw=true)
+![Resume 3](images/resumes/Resume_Mar8-Present.png?raw=true)
 I felt this resume was as good as it was going to get and fully captured everything I had done and was proud of up until now. Looking back and reflecting, there are some changes I want to make but I do think it sells the impact of the game project better and reflects how deep I went in that project in terms of scope and visibility. I still think it's pretty obvious that I like making games and happen to have relevant class projects to some positions. I think ideally I would have projects to showcase that are more related to positions I apply for but I have yet to specialize in anything in particular which may be a focus for the future. 
 
 Changes:
@@ -149,6 +150,7 @@ Weaknesses:
 - BrainBatch section is not very specific or interesting
 
 [Second Portfolio](https://etbay.github.io/)
+
 I think this portfolio does a better job capturing the attention of the viewer with punchy statistics and accompishments and also provides my resume, a way to contact me, and better descriptions of my projects with all of my relevant projects included.
 
 Strengths:
